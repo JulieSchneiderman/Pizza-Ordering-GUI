@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--Part of the sample solution for assignment 4.-->
 
 <?import javafx.geometry.Insets?>
 <?import javafx.scene.control.Button?>
@@ -13,7 +12,7 @@
 <?import javafx.scene.layout.RowConstraints?>
 <?import javafx.scene.layout.VBox?>
 
-<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="522.0" prefWidth="600.0" stylesheets="file:/C:/Users/Alan/Teaching/CISC124/2016Fall_124/Workspace/Assignment5/src/application/application.css" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Assignment5Controller">
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="522.0" prefWidth="600.0" stylesheets="/Users/julieschneiderman/Documents/Queen's/YEAR 2/Fall 2016/CISC 124/CISC124_PIZZAGUI/aplication/application.css" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Assignment5Controller">
    <children>
       <GridPane alignment="TOP_CENTER" hgap="10.0" prefHeight="173.0" prefWidth="518.0" vgap="10.0">
         <columnConstraints>

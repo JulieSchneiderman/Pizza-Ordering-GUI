@@ -3,7 +3,6 @@ package application;
 /*
  * This Controller class populates and adds behaviour to the controls in the windows.
  * 
- * Part of the sample solution to Assignment 5.
  */
 
 import java.util.ArrayList;
